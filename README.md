@@ -1,7 +1,7 @@
 # Database-Exploration-with-MySQL
 #SITUATION:
 
-I and my rich uncle, Jimmy just purchased Maven Movies, a brick and mortar, a DVD rental business. Uncle Jimmy put up the money while i run the day-to-day operations of the business.
+I and my rich uncle, Jimmy just purchased Maven Movies, a DVD rental business. Uncle Jimmy put up the money while i run the day-to-day operations of the business.
 
 #BRIEF: As a new owner, I need to learn everything I can about the business: the products, inventory, staff, customer purchase behaviours, etc.
 
